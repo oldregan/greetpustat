@@ -18,11 +18,11 @@ setup(
     version=version,
     description='',
     long_description=readme,
-    author='U.N. Owen',
-    author_email='me@un.known',
-    maintainer='U.N. Owen',
-    maintainer_email='me@un.known',
-    url='https://github.com/_/greetpustat',
+    author='Min',
+    author_email='renmin0424@gmail.com',
+    maintainer='Min',
+    maintainer_email='renmin0424@gmail.com',
+    url='https://github.com/oldregan/greetpustat',
     license='MIT/Apache-2.0',
 
     keywords=[
