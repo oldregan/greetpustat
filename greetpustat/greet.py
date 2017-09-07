@@ -1,4 +1,4 @@
-from extractlink import getlink
+from .extractlink import getlink
 import ascii
 def greet(name,speaker):
     nametitle = name.title()

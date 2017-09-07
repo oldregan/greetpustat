@@ -6,6 +6,11 @@ greetpustat
 .. contents:: **Table of Contents**
     :backlinks: none
 
+Features
+--------
+
+- simple greeting for purdue stat students by ascii art
+
 Installation
 ------------
 
@@ -19,8 +24,11 @@ Python 3.5+ and PyPy.
 
 Usage
 -----
+
 .. code-block:: bash
-    $ greetpustat --name"eric gerber"
+
+    $ greetpustat --name="eric gerber"
+    $ greetpustat --greeter="yourownname" --name="eric gerber"
 
 License
 -------
