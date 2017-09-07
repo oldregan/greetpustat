@@ -20,7 +20,7 @@ Python 3.5+ and PyPy.
 
 .. code-block:: bash
 
-    $ pip install greetpustat
+    $ pip3 install greetpustat
 
 Usage
 -----
