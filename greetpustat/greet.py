@@ -5,7 +5,3 @@ def greet(name,speaker):
     output = ascii.loadFromUrl(getlink(nametitle))
     print(output)
     print(speaker + ' says ' + nametitle +' is handsome')
-
-
-
-

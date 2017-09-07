@@ -10,6 +10,3 @@ def getlink(name):
         if img.get('alt') == alt:
             fullurl = "www.stat.purdue.edu" + img.get('src')
             return fullurl
-
-
-

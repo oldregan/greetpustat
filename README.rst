@@ -19,7 +19,7 @@ Python 3.5+ and PyPy.
 
 Usage
 -----
-.. code-block: bash
+.. code-block:: bash
     $ greetpustat --name"eric gerber"
 
 License
